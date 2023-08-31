@@ -1,1 +1,1 @@
-# cms_yonetim_paneli
+# content_managament_system
